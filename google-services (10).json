@@ -1,0 +1,121 @@
+{
+  "project_info": {
+    "project_number": "628331037704",
+    "project_id": "zapp-40577",
+    "storage_bucket": "zapp-40577.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628331037704:android:8662355fdad643f17f3dbd",
+        "android_client_info": {
+          "package_name": "com.blurr.voice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628331037704-0j2j1o0kpclbg8pmet84hkisk8qj4ln4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blurr.voice",
+            "certificate_hash": "d166cb8d57c9b1f09a95e8270934158fc61a581d"
+          }
+        },
+        {
+          "client_id": "628331037704-569024pc08c9njrcujt6ili4f06r3ekh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF2CUMBAa4ZLrB7f81GtSUBwTVa1vXJIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628331037704-569024pc08c9njrcujt6ili4f06r3ekh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628331037704:android:7c2abef8e379725d7f3dbd",
+        "android_client_info": {
+          "package_name": "com.zaap.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628331037704-7kcoifbbmb6hksbf7si1d6pfdhgksa92.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zaap.app",
+            "certificate_hash": "d166cb8d57c9b1f09a95e8270934158fc61a581d"
+          }
+        },
+        {
+          "client_id": "628331037704-569024pc08c9njrcujt6ili4f06r3ekh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF2CUMBAa4ZLrB7f81GtSUBwTVa1vXJIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628331037704-569024pc08c9njrcujt6ili4f06r3ekh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628331037704:android:ff47becd5645a6437f3dbd",
+        "android_client_info": {
+          "package_name": "com.zaap.voice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628331037704-m37900amsj6399ii4vq4q05fg0in4sil.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zaap.voice",
+            "certificate_hash": "d166cb8d57c9b1f09a95e8270934158fc61a581d"
+          }
+        },
+        {
+          "client_id": "628331037704-569024pc08c9njrcujt6ili4f06r3ekh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF2CUMBAa4ZLrB7f81GtSUBwTVa1vXJIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628331037704-569024pc08c9njrcujt6ili4f06r3ekh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
